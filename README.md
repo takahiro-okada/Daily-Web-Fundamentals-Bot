@@ -1,5 +1,8 @@
 # Daily Web Engineering Fundamentals
 
+<img width="1536" height="1024" alt="ChatGPT Image 2026年5月29日 09_35_10" src="https://github.com/user-attachments/assets/7c2352a3-7bc7-4ff5-aabb-c7c544869682" />
+
+
 ## Overview
 
 This project is an AI-powered daily learning system for Web engineers.
